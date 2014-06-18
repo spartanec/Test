@@ -11,6 +11,5 @@ public class Main {
     public static void main(String[] args) {
         new Trash().setName("vasya");
         LOG.info("Jenkins test number one ant two");
-        real error;
     }
 }
