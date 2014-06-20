@@ -10,5 +10,6 @@ public class Main {
         //new Trash().setName("vasya");
         LOG.info("Jenkins test plus Sonar");
         LOG.info("New changes");
+        LOG.info("New changes");
     }
 }
